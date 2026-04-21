@@ -1,0 +1,10 @@
+# Office temporary lock files
+~$*
+
+# Local verification/extraction scratch folders
+_tmp*
+*.tmp
+
+# Windows metadata
+Thumbs.db
+desktop.ini
